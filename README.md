@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**sanahussain47/sanahussain47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sanahussain47/sanahussain47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.>
 
 # 👋 Hi, I'm Sana Hussain
 
@@ -51,6 +51,6 @@ Fast forward, I still carry that curiosity with me every day — now as a Teachi
 ---
 
 ### 🌟 A Thought I Believe In
-> “We’ve all worked with data since birth — but learning how to use it to solve real problems is what truly transforms us.”
+ “We’ve all worked with data since birth — but learning how to use it to solve real problems is what truly transforms us.”
 
 
